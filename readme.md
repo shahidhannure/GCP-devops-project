@@ -1,1 +1,1 @@
-##### This is the GCP Devops project  #####
+ This is the GCP Devops project  #
